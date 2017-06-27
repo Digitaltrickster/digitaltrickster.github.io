@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://digitaltrickster.github.io/categories/</loc>
+    <loc>https://digitaltrickster.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://digitaltrickster.github.io/</loc>
+    <loc>https://digitaltrickster.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://digitaltrickster.github.io/post/test/</loc>
+    <loc>https://digitaltrickster.github.io/post/test/</loc>
   </url>
   
   <url>
-    <loc>http://digitaltrickster.github.io/post/</loc>
+    <loc>https://digitaltrickster.github.io/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://digitaltrickster.github.io/tags/</loc>
+    <loc>https://digitaltrickster.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
