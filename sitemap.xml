@@ -3,30 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://digitaltrickster.github.io/post/test/</loc>
-    <lastmod>2017-06-27T15:00:41-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://digitaltrickster.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://digitaltrickster.github.io/</loc>
-    <lastmod>2017-06-27T15:00:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://digitaltrickster.github.io/post/</loc>
-    <lastmod>2017-06-27T15:00:41-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://digitaltrickster.github.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://digitaltrickster.github.io/post/test/</loc>
   </url>
   
 </urlset>
